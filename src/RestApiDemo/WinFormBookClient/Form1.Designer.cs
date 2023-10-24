@@ -241,7 +241,7 @@
             Controls.Add(btnRefresh);
             Controls.Add(dgvBooks);
             Name = "Form1";
-            Text = "Delete";
+            Text = "Books";
             ((System.ComponentModel.ISupportInitialize)dgvBooks).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
